@@ -3,11 +3,11 @@
 #-------------------------------------------------------------------------------------------
 # Author: Charalambos Konstantinou 
 # W: http://ckonstantinou.info/ 
-# Github: https://github.com/harryskon
 # 
 # This script will download packages for, configure, build and install a GCC cross-compiler.
 # 
-# More on: https://harryskon.wordpress.com/
+# More on: hhttps://harryskon.wordpress.com/2015/02/10/shell-script-for-building-a-complete-gcc-cross-compiler/
+# and: http://w3-tutorials.com/item/29-shell-script-for-building-a-complete-gcc-cross-compiler
 #-------------------------------------------------------------------------------------------
 
 
