@@ -1,4 +1,7 @@
-uthor: Charalambos Konstantinou 
+#!/bin/sh
+
+#-------------------------------------------------------------------------------------------
+# Author: Charalambos Konstantinou 
 # W: http://ckonstantinou.info/ 
 # Github: https://github.com/harryskon
 # 
@@ -123,4 +126,3 @@ echo "Use cross-compiler by typing:"
 echo "$INSTDIR/bin/$TARGET-gcc sourcefile.c"
 echo "For more options type: $INSTDIR/bin/$TARGET-gcc --help"
 echo "For example: include the -msim option to choose the specific (ppc) machine type"
-
