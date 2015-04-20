@@ -1,9 +1,10 @@
 #!/bin/sh
 
 #-------------------------------------------------------------------------------------------
-# Author: Charalambos Konstantinou 
-# W: http://ckonstantinou.info/ 
-# 
+# Author: Harrys Kon (Charalambos Konstantinou) 
+# W: http://harryskon.com/ 
+# E: konharrys@gmail.com
+#
 # This script will download packages for, configure, build and install a GCC cross-compiler.
 # 
 # More on: hhttps://harryskon.wordpress.com/2015/02/10/shell-script-for-building-a-complete-gcc-cross-compiler/
